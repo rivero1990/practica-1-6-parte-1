@@ -1,6 +1,4 @@
-/* document.write("hola");
-console.log ("hola 2");
-document.querySelector("body").innerHTML += "<h2> hola 2 </h2>"; */
+
 
 let caracterIngresado = "a";
 let stringIngresado = "vacio";
@@ -24,5 +22,5 @@ document.write(" <h2> Entero ingresado es: " + enteroIngresado +"<h2>");
 document.write(" <h2> Flotante ingresado es: " + flotanteIngresado +"<h2>");
 document.write(" <h2> Booleano ingresado es: " + booleanoIngresado +"<h2>");
 
-;
+
 
